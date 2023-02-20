@@ -1,6 +1,6 @@
 body {
     background-color: white;
-  }
+}
 
 
 #my-header {
@@ -8,5 +8,4 @@ body {
     color: hsl(248, 50%, 47%);
     padding: 40px;
     text-align: center;
-  }
-
+}
